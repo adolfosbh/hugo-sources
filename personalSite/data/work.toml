@@ -1,0 +1,18 @@
+# Section title
+title = "Curriculum Vitae"
+
+[[projects]]
+    name = "CV"
+    folder = "cv"
+
+[[projects]]
+    name = "Publications"
+    folder = "publications"
+
+[[projects]]
+    name = "Eclipse"
+    folder = "eclipse"
+    
+[[projects]]
+    name = "OMG"
+    folder = "omg"    

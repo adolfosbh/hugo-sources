@@ -1,0 +1,17 @@
+# Section title
+title = "References"
+
+
+[[list]]
+    avatar = "Thanos.png"
+    name   = "Athanasios Zolotas"
+    title  = "EngD Student at University of York"
+    quote  = "Always a pleasure to collaborate with him. Hard working, has an eye for detail!"
+
+[[list]]
+    avatar = "Richard.jpg"
+    name   = "Professor Richard Paige"
+    title  = "Professor at University of York"
+    quote  = ""
+#    logo   = "logo1.png"
+
