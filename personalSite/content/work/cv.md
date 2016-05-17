@@ -10,12 +10,11 @@ profile. Here, I provide a brief summary of studies and past work:
 **Professional Experience** 
 
 * Researcher/Technologist at [Open Canarias S.L](http://opencanarias.es/), mainly focused in Model-Driven Engineering. Building Eclipse-based tools. 2007-2012. 
-* Researcher at [University of La Laguna](http://www.ull.es/). Research in Software Engineering and Model-Driven Engineering, 2006-2007.
-* Programmer at [Jadacom Networks](http://jadacom.com), mainly developing dynamic web pages, via MySQL and PHP technology, 2005-2006.
+* Researcher at [University of La Laguna](http://www.ull.es/), researching on Software Engineering and Model-Driven Engineering, 2006-2007.
+* Programmer at [Jadacom Networks](http://www.jadacom.com), mainly developing dynamic web pages, using MySQL and PHP technology, 2005-2006.
 
 **Studies**
 
 * Advanced Studies Diploma (post-graduate), at University of La Laguna, 2007-2008.
 * Master in Software Engineering, at University of La Laguna, 2006-2007.
 * Engineering in Computer Science, at University of La Laguna, 1999-2006.
-
