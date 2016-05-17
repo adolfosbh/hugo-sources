@@ -65,22 +65,22 @@ recent publications I've (co-)authored follows:
 * Edward D. Willink and Adolfo Sánchez-Barbudo Herrera,
   *Multi-Page QVT Editors*,
   Position paper presented in the OMG/Eclipse Symposium celebrated in the EclipseCON 2008, Santa Clara, California.
-  [PDF](/publications/EclipseCon2008_MultiPageQVTEditors.pdf]
+  [PDF](/publications/EclipseCon2008_MultiPageQVTEditors.pdf)
 * Edward D. Willink, Adolfo Sánchez-Barbudo Herrera and Christian W. Damus, 
   *Exploiting MDT OCL for QVT*,
   position paper presented at the OMG/Eclipse Simposia celebrated in the EclipseCON 2008, Santa Clara, California
   [PDF](/publications/EclipseCon2008_MDTOCLforQVT.pdf) 
 * Adolfo Sánchez-Barbudo Herrera, Victor Sánchez, Víctor Roldán, Antonio Estévez and Jose Luis Roda-García,
   *Providing an Open Virtual-Machine-based QVT Implementation.*
-  In proceedings of the V Model Driven Software Development Workshop, Vol 2. Nº 3, pp 42-51, Gijón, Spain, 2008.
+  In proceedings of the V Model Driven Software Development Workshop, Vol 2. Nº 3, pp 42-51, Gijón, Spain.
   [PDF](/publications/DSDM2008_ProvidingAnOpenVirtualMachineBasedQVT.pdf)
 * Victor Sánchez, Jose Luis Roda, Adolfo Sánchez-Barbudo Herrera and Antonio Estevez,
   *Using a Virtual-Machine Strategy to Enhance Model Transformation Experiences*,
-  in proceedings of the Doctoral Symposium at 11th International Conference MoDELS 2008, pp 908-909, Toulouse, France, 2008.
+  in proceedings of the Doctoral Symposium at 11th International Conference MoDELS 2008, pp 908-909, Toulouse, France.
   [PDF](/publications/MoDELS2008_UsingAVirtualMachineStrategyToEnhanceModelTransformationExperiences.pdf)
 
 #### 2007  
 * A. Estévez García, E.V. Sánchez Rebull, A. Sánchez-Barbudo Herrera, J.L. Roda García, F. Vargas Ruiz, O. Avila-García,
   *ModelSET: Soporte a Edición y Transformaciones de Modelos (Models Edition and Transformation Support)*,
-  Demo presented at the XII Conference in Software Engineering and Data Bases (JISBD'2007), pp. 397-398, Zaragoza, Spain, 2007.
+  Demo presented at the XII Conference in Software Engineering and Data Bases (JISBD'2007), pp. 397-398, Zaragoza, Spain.
   (Spanish) [PDF](/publications/JISBD2007_ModelSETModelsEditionAndTransformationSupport.pdf)
