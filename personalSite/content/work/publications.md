@@ -29,6 +29,10 @@ recent publications I've (co-)authored follows:
   *Automatic Application of Visitors to Evolving Domain-Specific Languages*, 
   in proceedings of 6th York Doctoral Symposium on Computer Science & Electronics, York. 
   [PDF](https://www.cs.york.ac.uk/ftpdir/reports/2014/YCS/493/YCS-2014-493.pdf)
+* Ran Wei, Adolfo Sánchez-Barbudo Herrera, Babajide Ogunyomi, Louis M. Rose and Dimitrios S. Kolovos.
+  *An Epsilon Solution to the TTC 2013 Flowgraphs Case*, 
+  presented at Transformation Tool Contest 2013, STAF'13, Budapest, Hungary. 
+  [PDF](/publications/TTC2013_FlowGraphsSolution.pdf)
 * Orlando Avila Garcia, Adolfo Sanchez-Barbudo Herrera, Miguel de Vega Rodrigo, Antonio Estevez,
   *Modernización Dirigida por la Arquitectura en la Transformación de un Core Bancario (Architecture-Driven Modernization in a Core Banking Transformation)*,
   Chapter of Book *Desarrollo de Software Dirigido por Modelos: Conceptos, Métodos y Herramientas (Model Driven Software Development: Concepts, Methods and Tools)*, RA-MA editorial, January 2013.
@@ -56,7 +60,15 @@ recent publications I've (co-)authored follows:
   in proceedings of XIV JISBD'09 conference, 81-84, San Sebastian, Spain.
   (Spanish) [PDF](/publications/JISBD2009_TEMPO.pdf)
 
-#### 2008  
+#### 2008
+* Victor Sánchez, Jose Luis Roda, Adolfo Sánchez-Barbudo Herrera and Antonio Estevez,
+  *Using a Virtual-Machine Strategy to Enhance Model Transformation Experiences*,
+  in proceedings of the Doctoral Symposium at 11th International Conference MoDELS 2008, pp 908-909, Toulouse, France.
+  [PDF](/publications/MoDELS2008_UsingAVirtualMachineStrategyToEnhanceModelTransformationExperiences.pdf)
+* Adolfo Sánchez-Barbudo Herrera, Victor Sánchez, Víctor Roldán, Antonio Estévez and Jose Luis Roda-García,
+  *Providing an Open Virtual-Machine-based QVT Implementation.*
+  In proceedings of the V Model Driven Software Development Workshop, Vol 2. Nº 3, pp 42-51, Gijón, Spain.
+  [PDF](/publications/DSDM2008_ProvidingAnOpenVirtualMachineBasedQVT.pdf)  
 * V. Roldán Betancort, E.V. Sánchez Rebull, O. Ávila-García, A. Sánchez-Barbudo. 
   *Overcoming the difficulties of implementing a QVT execution solution*.
   Position paper presented the OMG/Eclipse Symposium celebrated in both: the EclipseCON 2008, 20th March, Santa Clara, California and the OMG Technichal Meeting, 25th June,  Ottawa, Canada.
@@ -70,14 +82,7 @@ recent publications I've (co-)authored follows:
   *Exploiting MDT OCL for QVT*,
   position paper presented at the OMG/Eclipse Simposia celebrated in the EclipseCON 2008, Santa Clara, California
   [PDF](/publications/EclipseCon2008_MDTOCLforQVT.pdf) 
-* Adolfo Sánchez-Barbudo Herrera, Victor Sánchez, Víctor Roldán, Antonio Estévez and Jose Luis Roda-García,
-  *Providing an Open Virtual-Machine-based QVT Implementation.*
-  In proceedings of the V Model Driven Software Development Workshop, Vol 2. Nº 3, pp 42-51, Gijón, Spain.
-  [PDF](/publications/DSDM2008_ProvidingAnOpenVirtualMachineBasedQVT.pdf)
-* Victor Sánchez, Jose Luis Roda, Adolfo Sánchez-Barbudo Herrera and Antonio Estevez,
-  *Using a Virtual-Machine Strategy to Enhance Model Transformation Experiences*,
-  in proceedings of the Doctoral Symposium at 11th International Conference MoDELS 2008, pp 908-909, Toulouse, France.
-  [PDF](/publications/MoDELS2008_UsingAVirtualMachineStrategyToEnhanceModelTransformationExperiences.pdf)
+
 
 #### 2007  
 * A. Estévez García, E.V. Sánchez Rebull, A. Sánchez-Barbudo Herrera, J.L. Roda García, F. Vargas Ruiz, O. Avila-García,

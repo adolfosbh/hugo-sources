@@ -3,6 +3,12 @@ title = "References"
 
 
 [[list]]
+    avatar = "Vik.jpg"
+    name   = "Victor Roldán Betancort"
+    title  = "Software Engineer at Zalando"
+    quote  = "I collaborated closely with Adolfo for many years and had the luck to have him by my side in many projects. He's proactive and with a positive attitude towards problem solving, and loves to be challenged. We worked together for many years in the trenches of the Eclipse Modeling Project, and his contributions to the community are multiple and invaluable."
+
+[[list]]
     avatar = "Thanos.png"
     name   = "Athanasios Zolotas"
     title  = "EngD Student at University of York"
