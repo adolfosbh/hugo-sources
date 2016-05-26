@@ -3,8 +3,14 @@ title = "References"
 
 
 [[list]]
+    avatar = "Noe.png"
+    name   = "Noé Rodríguez González"
+    title  = "Software Engineer at Open Canarias"
+    quote  = "I studied and collaborated with Adolfo in varied projects. A brilliant mind passionate of software development and a great disposition for team working. His contributions to the projects I've been involved are a source of inspiration and an example of good work."
+
+[[list]]
     avatar = "Vik.jpg"
-    name   = "Victor Roldán Betancort"
+    name   = "Víctor Roldán Betancort"
     title  = "Software Engineer at Zalando"
     quote  = "I collaborated closely with Adolfo for many years and had the luck to have him by my side in many projects. He's proactive and with a positive attitude towards problem solving, and loves to be challenged. We worked together for many years in the trenches of the Eclipse Modeling Project, and his contributions to the community are multiple and invaluable."
 
