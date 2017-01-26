@@ -3,6 +3,10 @@ accepted in different national and international venues. A chronologically inver
 recent publications I've (co-)authored follows:
 
 #### 2016
+* Achim D. Brucker, Jordi Cabot, Gwendal Daniel, Martin Gogolla, Adolfo Sánchez-Barbudo Herrera, Frank Hilken, Frédéric Tuong, Edward D. Willink, Burkhart Wolff.
+  *Recent Developments in OCL and Textual Modelling*,
+  in proceedings of 16th International Workshop on OCL and Textual Modeling, Saint-Malo.
+  [PDF](http://ceur-ws.org/Vol-1756/paper12.pdf)
 * Adolfo Sánchez-Barbudo Herrera, Edward D. Willink and Richard F. Paige. 
   *A Domain Specific Transformation Language to Bridge Concrete and Abstract Syntax*, 
   in proceedings of 9th International Conference on Model Transformations, Vienna. 
