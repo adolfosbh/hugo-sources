@@ -2,6 +2,12 @@ During my doctorate and professional career, I've collaborated in several public
 accepted in different national and international venues. A chronologically inverted list of
 recent publications I've (co-)authored follows:
 
+#### 2017
+* Adolfo Sánchez-Barbudo Herrera (supervised by Richard F. Paige and Edward D. Willink)
+  *Auto-tooling to bridge the concrete and abstract syntax of complex textual modeling languages*,
+  Thesis of my Engineering Doctorate Graduate, May 2017.
+  [PDF](/publications/thesis_asbh.pdf)
+
 #### 2016
 * Achim D. Brucker, Jordi Cabot, Gwendal Daniel, Martin Gogolla, Adolfo Sánchez-Barbudo Herrera, Frank Hilken, Frédéric Tuong, Edward D. Willink, Burkhart Wolff.
   *Recent Developments in OCL and Textual Modelling*,

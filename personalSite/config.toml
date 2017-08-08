@@ -43,7 +43,7 @@ theme = "artists"
 	# Replace the 'avatar.jpg' under 'static/img' with your own image.
 	[params.about]
 		title = "About me"
-		bio = "I'm a researcher in Computer Science focused on Software Engineering and -Meta-Modeling since 2006. I'm currently an Engineering Doctorate student at the [University of York](https://www.cs.york.ac.uk/), and in my personal site you can find varied information about my past work and experience. I ocassionally write in my personal [blog](https://adolfosbh.blogspot.com)"
+		bio = "I'm an Engineering Doctorate graduate in Computer Science focused on Software Engineering and -Meta-Modeling. I'm currently the Chief Technical Officer at a start-up called [Gaming Experience](https://tgx.es). In my personal site you can find varied information about my past work and experience."
 
     [[params.about.skills]]
       name = "Programming"
