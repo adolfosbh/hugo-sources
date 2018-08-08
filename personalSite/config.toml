@@ -43,7 +43,7 @@ theme = "artists"
 	# Replace the 'avatar.jpg' under 'static/img' with your own image.
 	[params.about]
 		title = "About me"
-		bio = "I'm an Engineering Doctorate graduate in Computer Science focused on Software Engineering and -Meta-Modeling. I'm currently the Chief Technical Officer at a start-up called [Gaming Experience](https://tgx.es). In my personal site you can find varied information about my past work and experience."
+		bio = "Welcome to my personal web site. No, I don't track any data from you (I don't need to feed any ego with numbers or demographics). Here, you will probably find all what you need to know about me, otherwise drop me an email ;). As a short bio, I prefer to see my life as a list of goals that I've been able to achieve so far (chronologically): MSc in Computer Science (credited with best academic transcript), committer of open source projects in a transparent, open and wide software community ([Eclipse](https://eclipse.org)), contributor of standardized and open specifications ([Object Management Group](https://omg.org)), author and presenter of several works at international venues, founder and CTO of a start-up, author of a book chapter, married and father of a lovely child, Doctorate of Engineering ([University of York](http://etheses.whiterose.ac.uk/17416/))... now focusing on being chartered engineer. One could say, I'm unable to focus. I can only say that DON'T let anybody set your limits."
 
     [[params.about.skills]]
       name = "Programming"

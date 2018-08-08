@@ -9,7 +9,7 @@ profile. Here, I provide a brief summary of studies and past work:
 
 **Professional Experience** 
 
-* Chief Technical Officer at [Gaming Experience](http://tgx.es/), mainly focused on managing the technical department that develops the on-line web platform and mobile app that provide services for *gamers*.
+* Chief Technical Officer at [Gaming Experience](https://gamingexp.com/), mainly focused on managing the technical department that develops the on-line web platform and mobile app that provide services for *gamers*, 2017-2018.
 * Researcher/Technologist at [Open Canarias S.L](http://opencanarias.es/), mainly focused in Model-Driven Engineering. Building Eclipse-based tools. 2007-2012. 
 * Researcher at [University of La Laguna](http://www.ull.es/), researching on Software Engineering and Model-Driven Engineering, 2006-2007.
 * Programmer at [Jadacom Networks](http://www.jadacom.com), mainly developing dynamic web pages, using MySQL and PHP technology, 2005-2006.
