@@ -6,6 +6,10 @@ profile. Here, I provide a brief summary of studies and past work:
 
 * Model-Driven Engineering.
 * [Eclipse](https://eclipse.org)-based and [Java](https://www.oracle.com/java/index.html) development.
+* Release Engineering at Eclipse using Hudson/Jenkins. More recently, I've worked with gitlab-ci/cd, bitbucket pipelines and circle-ci.
+* Recent back-end activities/experiences were on Django (python, pip), Apollo and JoinMonster GraphQL (Node.js, npm) and docker. 
+* Project/team management using agile methodologies (Scrum, Scrumban, Lean startup) and management tools (JIRA, Trello, toggl).
+
 
 **Professional Experience** 
 
