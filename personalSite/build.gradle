@@ -1,0 +1,21 @@
+defaultTasks 'buildAndClean'
+
+task generateSite (type:Exec) {
+	commandLine 'hugo'	
+}
+
+task moveGeneratedSite(type: Copy, dependsOn: 'generateSite') {
+    from ("./public") {
+    	exclude "categories", "tags", "img/clients/face*", "img/clients/logo*", "img/work/proj-*", "img/clients/Dayana.png"
+    }
+    into "../../adolfosbh.github.io"
+}
+
+task clean {
+	doLast {
+		delete "./public"
+	}
+}
+
+task buildAndClean(dependsOn: ['moveGeneratedSite', 'clean'])
+clean.mustRunAfter moveGeneratedSite
