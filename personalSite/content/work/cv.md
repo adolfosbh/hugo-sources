@@ -1,6 +1,6 @@
-This site is not designed to expose a detailed Curriculum Vitae. Therefore you
+This site is not designed to expose a detailed Curriculum Vitae (CV). Therefore you
 can access an on-line extended exposition of skills and experience in my [linkedin](https://uk.linkedin.com/in/adolfosbh) account
-profile. Here, I provide a brief summary of studies and past work:
+profile. If you want an updated and detailed CV, drop me an email, please. Here, I provide a brief summary of studies and past work:
 
 **Area of Expertise**
 
@@ -20,6 +20,7 @@ profile. Here, I provide a brief summary of studies and past work:
 
 **Studies**
 
+* Public Innovation Management at University of La Laguna, 2018. 
 * Engineering Doctorate graduate, at University of York, 2013-2017.
 * Advanced Studies Diploma (post-graduate), at University of La Laguna, 2007-2008.
 * Master in Software Engineering, at University of La Laguna, 2006-2007.
