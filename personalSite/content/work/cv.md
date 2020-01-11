@@ -9,7 +9,8 @@ profile. If you want an updated and detailed CV, drop me an email, please. Here,
 * Release Engineering at Eclipse using Hudson/Jenkins. More recently, I've worked with gitlab-ci/cd, bitbucket pipelines and circle-ci.
 * Google Apps, Google Web Toolkit (GWT)  and Google App Engine (GAE).
 * Cloud Computing (IAAS) using OVH and AWS.
-* Recent back-end activities/experiences were on Django (python, pip), Apollo and JoinMonster GraphQL (Node.js, npm) and docker. 
+* Recent back-end activities/experiences were on Django (python, pip), Apollo and JoinMonster GraphQL (Node.js, npm) and docker.
+* Research & Development, including writing scientific papers, proposals, funding technical reports, etc.
 * Project/team management using agile methodologies (Scrum, Scrumban, Lean startup) and management tools (JIRA, Trello, toggl).
 
 
@@ -24,6 +25,7 @@ profile. If you want an updated and detailed CV, drop me an email, please. Here,
 
 **Studies**
 
+* Master's degree in Information Systems and Technologies for Public Administration, Menéndez Pelayo International University, 2019.
 * Big Data and Data Analytics Expert at University of La Laguna, 2018.
 * Public Innovation Management at University of La Laguna, 2018. 
 * Engineering Doctorate graduate, at University of York, 2013-2017.

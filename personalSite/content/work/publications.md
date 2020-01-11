@@ -2,8 +2,19 @@ During my doctorate and professional career, I've collaborated in several public
 accepted in different national and international venues. A chronologically inverted list of
 recent publications I've (co-)authored follows:
 
+#### 2019
+* Adolfo Sánchez-Barbudo Herrera (supervised by Pedro Juan Baquero Pérez).
+  *Uso de Arquitecturas de Empresa para elaborar el mapa de activos de sistemas de información de la Consejería de Administraciones Públicas, Justicia y Seguridad del Gobierno de Canarias (Usage of Enterprise Architectures to build the information system assets for the Council of Public Administration, Justice and Security of the Canary Goverment*, 
+  Master's Thesis of my Master's Graduate in Information Systems and Technologies for Public Administrations, October 2019.
+  [PDF](/publications/TFMasbh.pdf)
+* Pedro Juán Baquero Pérez, Adolfo Sánchez-Barbudo Herrera.
+  *A Framework of Project Governance for Electronic Administration*,
+  In proceedings of the 23th International Congress on Project Management and Engineering, Málaga.  
+  [PDF](http://dspace.aeipro.com/xmlui/bitstream/handle/123456789/2245/AT01-009_2019.pdf)
+
+
 #### 2017
-* Adolfo Sánchez-Barbudo Herrera (supervised by Richard F. Paige and Edward D. Willink)
+* Adolfo Sánchez-Barbudo Herrera (supervised by Richard F. Paige and Edward D. Willink).
   *Auto-tooling to bridge the concrete and abstract syntax of complex textual modeling languages*,
   Thesis of my Engineering Doctorate Graduate, May 2017.
   [PDF](/publications/thesis_asbh.pdf)
