@@ -6,7 +6,7 @@ recent publications I've (co-)authored follows:
 * Adolfo Sánchez-Barbudo Herrera (supervised by Pedro Juan Baquero Pérez).
   *Uso de Arquitecturas de Empresa para elaborar el mapa de activos de sistemas de información de la Consejería de Administraciones Públicas, Justicia y Seguridad del Gobierno de Canarias (Usage of Enterprise Architectures to build the information system assets for the Council of Public Administration, Justice and Security of the Canary Goverment*, 
   Master's Thesis of my Master's Graduate in Information Systems and Technologies for Public Administrations, October 2019.
-  [PDF](/publications/TFMasbh.pdf)
+  [PDF](/publications/TFMadolfosbh.pdf)
 * Pedro Juán Baquero Pérez, Adolfo Sánchez-Barbudo Herrera.
   *A Framework of Project Governance for Electronic Administration*,
   In proceedings of the 23th International Congress on Project Management and Engineering, Málaga.  
